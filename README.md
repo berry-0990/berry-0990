@@ -38,18 +38,6 @@ I'm a final-year Computer Science (AI & ML) student passionate about Generative 
     <img src="https://img.shields.io/badge/Read%20Research-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-
-🏅 <b>Research Paper Author</b> — CARAG<br>
-📑 <b>Conference Reviewer</b> — CE2CT 2026<br>
-🚀 <b>GenAI Hackathon</b> — Pre-Qualifier 2026<br>
-💻 <b>Smart India Hackathon</b> — Pre-Qualifier 2024<br>
-🎓 <b>NASSCOM</b> — Digital Application Fundamentals
-
-</p>
 <h2 align="center">🚀 Featured Projects</h2>
 
 <h3>🛡️ CodeSentinel</h3>
@@ -85,6 +73,17 @@ A research project exploring confidence-aware retrieval techniques to reduce hal
   <img src="https://img.shields.io/badge/Read%20Research-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white">
 </a>
 </p>
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+
+🏅 <b>Research Paper Author</b> — CARAG<br>
+📑 <b>Conference Reviewer</b> — CE2CT 2026<br>
+🚀 <b>GenAI Hackathon</b> — Pre-Qualifier 2026<br>
+💻 <b>Smart India Hackathon</b> — Pre-Qualifier 2024<br>
+🎓 <b>NASSCOM</b> — Digital Application Fundamentals
+
+</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -94,4 +93,26 @@ A research project exploring confidence-aware retrieval techniques to reduce hal
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berry-0990/berry-0990/output/github-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/berry-0990/berry-0990/output/github-snake.svg">
   </picture>
+</p>
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-bhargav-891a4b282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/berry-0990">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/berry-0990/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b>Thanks for stopping by! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Build something useful. Make it better. Repeat.</i>
 </p>
