@@ -85,3 +85,13 @@ A research project exploring confidence-aware retrieval techniques to reduce hal
   <img src="https://img.shields.io/badge/Read%20Research-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white">
 </a>
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berry-0990/berry-0990/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berry-0990/berry-0990/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/berry-0990/berry-0990/output/github-snake.svg">
+  </picture>
+</p>
